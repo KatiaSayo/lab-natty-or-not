@@ -20,19 +20,20 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Urso Polar Cantor ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Desenho de um urso polar cantor
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Leonardo AI
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Solicitei o desenho de um urso polar vestido de papai noel com um microfone na mão
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+![Leonardo_Phoenix_10_A_majestic_polar_bear_donning_a_Santa_Clau_2](https://github.com/user-attachments/assets/c0e28479-677a-4ff8-bc8b-a349adc49b5a)
+
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
